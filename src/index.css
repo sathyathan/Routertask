@@ -1,0 +1,12 @@
+.navbar-nav .nav-item a{
+  text-decoration: none !important;
+  margin: 25px !important;
+}
+.brand{
+  text-decoration: none!important;
+  
+}
+img{
+  height: 200px;
+  width:200px ;
+}
